@@ -1,1 +1,2 @@
-# Shadows-On-The-Sands
+### Licensing
+Copyright (c) 2024 Riya Halbhavi
