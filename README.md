@@ -1,7 +1,7 @@
 <img src="readme.png">
 
 ### Technologies
-- Python
+- Python, Visual Studio Code
 - Ren'Py
 - GIMP
 - Autodesk Sketchbook
