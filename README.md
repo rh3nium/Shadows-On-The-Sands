@@ -1,4 +1,4 @@
-<img src="">
+<img src="readme.png">
 
 #### Technologies
 - Python, Visual Studio Code
