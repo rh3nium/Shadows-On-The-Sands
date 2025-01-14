@@ -1,10 +1,13 @@
 <img src="readme.png">
 
 #### Technologies
-- Python, Visual Studio Code
-- Ren'Py
-- GIMP
-- Autodesk Sketchbook
+<ul>
+  <li>Python</li>
+  <li>Visual Studio Code</li>
+  <li>Ren'Py</li>
+  <li>GIMP</li>
+  <li>Autodesk Sketchbook</li>
+</ul>
 
 #### Licensing
 Copyright (c) 2024 Riya Halbhavi
