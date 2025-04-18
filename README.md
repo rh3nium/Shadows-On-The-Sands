@@ -1,4 +1,3 @@
-<img src="readme.png">
 
 #### Technologies
 <ul>
