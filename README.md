@@ -1,4 +1,4 @@
-<img src="readmepng.png">
+<img src="cover.png">
 
 #### Technologies
 <ul>
