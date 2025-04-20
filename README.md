@@ -9,4 +9,4 @@
 </ul>
 
 #### Licensing
-Copyright (c) 2025 Riya Hal
+Copyright (c) 2025 Riya Halbhavi
